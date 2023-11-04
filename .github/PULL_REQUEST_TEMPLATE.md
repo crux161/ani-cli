@@ -22,8 +22,9 @@
 - [ ] `-q` quality works
 - [ ] `-v` vlc works
 - [ ] `-e` select episode works
+- [ ] `-S` select index works
 - [ ] `-r` range selection works
-- [ ] `--dub` both work
+- [ ] `--dub` and regular (sub) mode both work
 - [ ] all providers return links (not necessarily on a single anime, use debug mode to confirm)
 ---
 - [ ] `-h` help info is up to date
